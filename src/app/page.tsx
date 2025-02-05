@@ -5,7 +5,7 @@ import Home from './home';
 import './globals.css';  
 
 const Page: React.FC = () => {
-  return <Home />;;
+  return <Home />;
 };
 
 export default Page;
